@@ -1,5 +1,5 @@
-package main;
 
-func main() string {
+
+func sayHello() string {
 	return "Hello, World!"
 }
